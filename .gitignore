@@ -146,3 +146,8 @@ temp/
 *.sqlite
 *.sqlite3
 *.db
+
+# =====================================================================
+# Third-party documents - keep local only
+# =====================================================================
+AI Evals For Engineers & PMs — Syllabus.pdf
